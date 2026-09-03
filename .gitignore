@@ -1,0 +1,14 @@
+# Build do .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Arquivos gerados
+*.dll
+*.exe
+*.pdb
+*.cache
+*.user
+*.suo
